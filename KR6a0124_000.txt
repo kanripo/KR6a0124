@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 緣起經
+#+DATE: 2015-08-30 19:32:04.007785
+#+PROPERTY: JUAN 0
